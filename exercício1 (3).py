@@ -97,3 +97,4 @@ def Remover_contato():
         print("Por favor, insira um número válido.\n")
 print("Diga o que queres fazer")
 menu_contatos()
+# teste
